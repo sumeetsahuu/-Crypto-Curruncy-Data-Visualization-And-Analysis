@@ -58,13 +58,3 @@
 
 - You can change visualization as per your requirement.
 - You can add additional fileds on dashboard as per requirement.
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkiran101714)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pkiran101714)
-
-
-## Support & Help
-
-For support, Telegram https://t.me/ekalone1017.
